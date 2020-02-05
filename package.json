@@ -1,0 +1,23 @@
+{
+  "name": "stutern-group5",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000t\u0000u\u0000t\u0000e\u0000r\u0000n\u0000-\u0000g\u0000r\u0000o\u0000u\u0000p\u00005\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gharoro/stutern-group5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gharoro/stutern-group5/issues"
+  },
+  "homepage": "https://Gharoro.github.io/stutern-group5",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
