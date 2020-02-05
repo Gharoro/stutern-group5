@@ -109,6 +109,7 @@ min-width: 100%;
     grid-template-columns: repeat(9, 0.1fr);
     grid-gap: 1em;
     background-color: navy;
+    padding: 0 20px;
    
 }
 
